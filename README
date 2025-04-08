@@ -1,5 +1,3 @@
-On désire concevoir un système de gestion de réservation d'hôtels à travers une 
-application orientée objet en C++. Le système permettra aux utilisateurs de 
-rechercher des hôtels disponibles, de faire des réservations et de gérer leurs 
-réservations existantes. Le système comprendra des fonctionnalités pour les 
-clients, les employés de l'hôtel et les administrateurs. 
+We aim to design a hotel reservation management system through an object-oriented application in C++.
+The system will allow users to search for available hotels, make reservations, and manage their existing bookings
+The system will include features for customers, hotel staff, and administrators.
